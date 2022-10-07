@@ -1,0 +1,7 @@
+1.A. Przede wszystkim w Javie interface definiuje zachowanie, podczas gdy abstract class
+     tworzy hierarchię. Następnie klasa abstrakcyjna może posiadać zmienne instancji, konstruktory,
+      metody statyczne, podczas gdy interfejs nie może posiadać wcześniej wymienionych zagadnień.
+1.B. Główną różnicą pomiędzy tablicą a listą jest taka, że listy mogą mieć zmienną ilość elementów,
+     a tablice nie. Kolejną różnicą jest sposób pobierania , dodawania, usuwania.
+     Na przykład w tablicach dodajemy dany element poprzez podanie tego numeru w nawiasach,
+     natomiast w listach musimy użyć odpowiedniej metody, w przypadku dodania elementu jest to metoda get.
